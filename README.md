@@ -1,7 +1,7 @@
 ## Hi there, i am Plair 👋
 
 
-I am a Smart Contract Engineer/ Developer   experienced in writing solidity 
+I am a Smart Contract Engineer/Developer.
 
 ### Tech stack
 - Solidity
@@ -13,8 +13,12 @@ I am a Smart Contract Engineer/ Developer   experienced in writing solidity
 
 
 
-## Hackathons winnings:
-[- Chromonium Chainlink 2025. Avalanche Track Top 6](https://devfolio.co/projects/edenprotocol-9f54)
+### Hackathons winnings:
+- Chromonium Chainlink 2025. Avalanche Track Top 6 -> https://devfolio.co/projects/edenprotocol-9f54 or https://github.com/plairfx/EdensProtocol-F
+
+
+### Socials 
+Twitter/X = https://x.com/Plairfx
 
 
 
