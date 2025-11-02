@@ -7,8 +7,6 @@ I am a Smart Contract Engineer/Developer.
 - Solidity
 - Foundry
 - React/Nextjs (*)
-- Javascript (*)
-- Typescript (*)
 - Golang (*)
 
 
