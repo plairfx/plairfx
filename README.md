@@ -5,13 +5,13 @@ I am a Smart Contract Engineer/Developer.
 
 ### Tech stack
 - Solidity
-- Foundry
-- Golang
-- React/Nextjs 
 - Golang 
 
 ### Socials 
 Twitter/X = https://x.com/Plairfx
+Website =
+Telegram = t.me/plairfx
+
 
 
 
