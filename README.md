@@ -4,8 +4,18 @@
 I am a Smart Contract Engineer/Developer.
 
 ### Tech stack
+# Tech Stack
+
 - Solidity
-- Golang 
+- Foundry
+- Golang
+- Docker
+- PostgresSQL
+
+---- dabble sometimes with...
+
+- Viem
+- Wagmi
 
 ### Socials 
 Twitter/X = https://x.com/Plairfx
