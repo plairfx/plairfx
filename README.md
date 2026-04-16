@@ -1,7 +1,7 @@
 ## Hi there, i am Plair 👋
 
 
-I am a Developer, currently building **0xfxdotexchange**
+I am a Developer, currently building **0xfx.exchange**
 
 ### Tech stack
 - Solidity
@@ -15,9 +15,9 @@ I am a Developer, currently building **0xfxdotexchange**
 
 Feel free to message me on any of the listed socials below.
 
-Twitter/X = https://x.com/Plairfx
-Website = plairfx.github.io
-Telegram = t.me/plairfx
+- Twitter/X = https://x.com/Plairfx
+- Website = plairfx.github.io
+- Telegram = t.me/plairfx
 
 
 
