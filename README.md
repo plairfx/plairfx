@@ -1,25 +1,22 @@
 ## Hi there, i am Plair 👋
 
 
-I am a Smart Contract Engineer/Developer.
+I am a Developer, currently building **0xfxdotexchange**
 
 ### Tech stack
-# Tech Stack
-
 - Solidity
 - Foundry
 - Golang
 - Docker
 - PostgresSQL
-
----- dabble sometimes with...
-
-- Viem
-- Wagmi
+- Svelte
 
 ### Socials 
+
+Feel free to message me on any of the listed socials below.
+
 Twitter/X = https://x.com/Plairfx
-Website =
+Website = plairfx.github.io
 Telegram = t.me/plairfx
 
 
